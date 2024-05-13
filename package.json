@@ -1,0 +1,32 @@
+{
+  "name": "@apiverve/mortgagecalculator",
+  "version": "1.0.0",
+  "description": "Mortgage Calculator is a simple tool for calculating mortgage payments. It returns the monthly payment, total interest, and more.",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/apiverve/mortgagecalculator-API.git"
+  },
+  "keywords": [
+    "mortgage calculator"," mortgage"," mortgage payments"," mortgage calculator api"," mortgage api"," mortgage calculator tool"," mortgage tool"," mortgage calculator software"," mortgage software"," mortgage calculator service"," mortgage service"," mortgage calculator library"," mortgage library"," mortgage calculator sdk"," mortgage sdk"," mortgage calculator code"," mortgage code"," mortgage calculator script"," mortgage script"," mortgage calculator program"," mortgage program"," mortgage calculator application"," mortgage application"," mortgage app"," mortgage utility"," mortgage helper"," mortgage helper tool"," mortgage helper software"," mortgage helper service"," mortgage helper library"," mortgage helper sdk"," mortgage helper code"," mortgage helper script"," mortgage helper program"," mortgage helper application"," mortgage helper app"," mortgage helper tool"," mortgage helper utility"," mortgage helper"
+  ],
+  "author": "APIVerve <hello@apiverve.com> (http://apiverve.com/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/apiverve/mortgagecalculator-API/issues"
+  },
+  "homepage": "https://github.com/apiverve/mortgagecalculator-API",
+  "devDependencies": {
+    "mocha": "^2.3.4",
+    "chai": "^3.4.1",
+    "dotenv": "^2.0.0"
+  },
+  "dependencies": {
+    "node-fetch": "3.3.2",
+    "promise": "^7.1.1",
+    "request": "^2.69.0"
+  }
+}
