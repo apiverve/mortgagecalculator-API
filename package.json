@@ -1,6 +1,6 @@
 {
   "name": "@apiverve/mortgagecalculator",
-  "version": "1.1.6",
+  "version": "1.1.7",
   "description": "Mortgage Calculator is a simple tool for calculating mortgage payments. It returns the monthly payment, total interest, and more.",
   "main": "index.js",
   "scripts": {
